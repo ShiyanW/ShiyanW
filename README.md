@@ -8,6 +8,7 @@ Ph.D. student in Agricultural and Resource Economics at Colorado State Universit
 
 ### Projects
 - [ai-revision-guard](https://github.com/ShiyanW/ai-revision-guard): an agent skill that keeps AI tools from over-editing academic writing.
+- [2024 Local Food Economics Data Visualization Challenge](https://github.com/mgill417/Data-Visualization-Competition-Gill-Wang-and-Cooper): team submission with Mackenzie Gill and Courtney Cooper, built from USDA's Local Food Data Warehouse and presented to judges at the AAEA Annual Meeting in New Orleans.
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/shiyan-wang-econ/)
